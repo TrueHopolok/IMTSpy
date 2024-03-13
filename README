@@ -1,0 +1,7 @@
+This project used 2 external libraries:
+- argon2-cffi   | https://pypi.org/project/argon2-cffi/
+- customtkinter | https://customtkinter.tomschimansky.com
+
+Download them using `pip install <package name>`
+
+To launch the project `python main.py`
